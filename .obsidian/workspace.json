@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/command-reference.md",
+                "file": "Daily/2025-06-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "command-reference"
+              "title": "2025-06-06"
             }
           }
         ]
@@ -166,14 +166,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19bb8988a659065d",
+  "active": "e46d3d082fa16c66",
   "lastOpenFiles": [
+    "Templates/daily-template.md",
+    "Daily/2025-06-06.md",
+    "HTB/Machines/fawn/index.md",
+    "Resources/command-reference.md",
     "HTB/Machines/meow.md",
     "Templates/htb-machine-template.md",
-    "Templates/daily-template.md",
     "HTB/Machines/meow/index.md",
-    "Resources/command-reference.md",
-    "Daily/2025-06-06.md",
     "HTB/Academy/intro-to-networking.md",
     "HTB/Machines/meow",
     "Logs/2025-06-06.log",
@@ -182,7 +183,6 @@
     "HTB/Machines/TEST!.2",
     "HTB/Machines/TEST!/index.md",
     "HTB/Machines/TEST!",
-    "HTB/Machines/fawn/index.md",
     "Daily/2025-06-06.md.save",
     "Courses/Networking/labs.md",
     "Courses/Networking/tasks.md",
