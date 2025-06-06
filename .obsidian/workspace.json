@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06603960e7dce981",
+        "id": "6504dbc7072cfca0",
         "type": "tabs",
         "children": [
           {
-            "id": "2e9c32c80f59a492",
+            "id": "e46d3d082fa16c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,15 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19bb8988a659065d",
+  "active": "e46d3d082fa16c66",
   "lastOpenFiles": [
-    "HTB/Machines/fawn.md",
-    "Daily/2025-06-06.md",
-    "HTB/Machines/fawn/index.md",
-    "Planner/tracker.md",
     "Resources/command-reference.md",
+    "HTB/Machines/meow/index.md",
+    "HTB/Machines/meow",
+    "Daily/2025-06-06.md",
+    "Logs/2025-06-06.log",
     "Templates/htb-machine-template.md",
     "Templates/daily-template.md",
+    "HTB/Machines/Untitled.md",
+    "Untitled.md",
+    "HTB/Machines/fawn/index.md",
+    "HTB/Machines/fawn.md",
+    "Planner/tracker.md",
     "Daily/2025-06-05.md",
     "2025-06-06.md",
     "HTB/Academy/intro-to-networking.md",
@@ -195,13 +200,7 @@
     "Notes/Networking",
     "Planner",
     "Courses/Networking/tasks.md",
-    "Courses/Networking/labs.md",
-    "Courses/Networking/notes.md",
-    "Goals/roadmap.md",
-    "Daily/2025-06-04.md",
     "Goals",
-    "Templates",
-    "Resources",
-    "Projects"
+    "Templates"
   ]
 }
