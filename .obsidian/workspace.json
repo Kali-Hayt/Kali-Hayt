@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-06-06.md",
+                "file": "Templates/daily-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-06"
+              "title": "daily-template"
             }
           }
         ]
@@ -166,10 +166,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19bb8988a659065d",
+  "active": "e46d3d082fa16c66",
   "lastOpenFiles": [
-    "Templates/daily-template.md",
     "Daily/2025-06-06.md",
+    "Templates/daily-template.md",
     "HTB/Machines/fawn/index.md",
     "Resources/command-reference.md",
     "HTB/Machines/meow.md",
