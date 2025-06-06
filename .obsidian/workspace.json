@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-06-06.md",
+                "file": "Templates/daily-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-06"
+              "title": "daily-template"
             }
           }
         ]
@@ -165,20 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e46d3d082fa16c66",
+  "active": "19bb8988a659065d",
   "lastOpenFiles": [
+    "Daily/2025-06-06.md",
+    "Templates/daily-template.md",
+    "Planner/tracker.md",
     "Resources/command-reference.md",
     "HTB/Machines/meow/index.md",
     "HTB/Machines/meow",
-    "Daily/2025-06-06.md",
     "Logs/2025-06-06.log",
     "Templates/htb-machine-template.md",
-    "Templates/daily-template.md",
     "HTB/Machines/Untitled.md",
     "Untitled.md",
     "HTB/Machines/fawn/index.md",
     "HTB/Machines/fawn.md",
-    "Planner/tracker.md",
     "Daily/2025-06-05.md",
     "2025-06-06.md",
     "HTB/Academy/intro-to-networking.md",
