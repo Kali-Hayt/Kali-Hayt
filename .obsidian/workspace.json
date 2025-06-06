@@ -167,18 +167,18 @@
   },
   "active": "2e9c32c80f59a492",
   "lastOpenFiles": [
+    "HTB/Machines/fawn.md",
+    "Daily/2025-06-05.md",
+    "HTB/Academy/intro-to-networking.md",
+    "HTB/Academy/intro-to-linux.md",
     "t>",
     "HTB/Machines/fawn/index.md",
-    "HTB/Machines/fawn.md",
     "Resources/command-reference.md",
     "flag.txt",
-    "Daily/2025-06-05.md",
     "Templates/htb-machine-template.md",
     "Planner/tracker.md",
     "Templates/daily-template.md",
-    "HTB/Academy/intro-to-networking.md",
     "HTB/Machines/fawn",
-    "HTB/Academy/intro-to-linux.md",
     "HTB/_Tracker.md",
     "Planner/2025-06.md",
     "Planner/recurring.md",
@@ -200,7 +200,6 @@
     "Goals",
     "Templates",
     "Resources",
-    "Projects",
-    "Notes"
+    "Projects"
   ]
 }
