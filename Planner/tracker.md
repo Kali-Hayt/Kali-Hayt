@@ -10,7 +10,7 @@
 - [ ] DOR needs academic plan
 - [ ] Final Spring grades
 - [ ] DOR needs transcript
-- [ ] Email Jessica for transcript
+- [x] Email Jessica for transcript
 
 ### 🪪 Personal
 - [ ] New Driver’s License

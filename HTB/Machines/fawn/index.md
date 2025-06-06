@@ -1,37 +1,16 @@
-# 🖥️ HTB Machine — fawn
+ End Your Day
 
-## 🧾 Info
-- Release Date:
-- Difficulty:
-- IP Address:
-- OS:
-
----
-
-## 📡 Enumeration
-
-### Nmap
+### Push changes to GitHub
 ```bash
-nmap -sC -sV -oN fawn-nmap.txt <IP>
+endday
 ```
-
-### Other scans / Notes:
-- 
-
----
-
-## ⚔️ Exploitation
-- Initial Exploit:
-- Shell Access:
-- Privilege Escalation:
+- Commits and pushes notes + logs
+- Finalizes your daily log
 
 ---
 
-## 🧠 What I Learned
-- 
+## 📝 Notes
 
-## 🧪 Practice Areas
-- 
-
-## 🔁 Work History
-- [ ] 2025-06-05: Started box, ran nmap
+- VPN file now lives in `~/VPNs/htb.ovpn`
+- `startday`, `focus`, and `endday` are all customized aliases
+- Maintain consistent folder names for Obsidian linking
