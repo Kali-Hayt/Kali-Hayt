@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/daily-template.md",
+                "file": "Daily/2025-06-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily-template"
+              "title": "2025-06-06"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "e46d3d082fa16c66",
   "lastOpenFiles": [
-    "Daily/2025-06-06.md",
     "Templates/daily-template.md",
+    "Daily/2025-06-06.md",
     "HTB/Machines/fawn/index.md",
     "Resources/command-reference.md",
     "HTB/Machines/meow.md",
