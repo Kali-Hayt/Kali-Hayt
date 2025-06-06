@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Machines/fawn/index.md",
+                "file": "Daily/2025-06-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2025-06-05"
             }
           }
         ]
@@ -167,9 +167,10 @@
   },
   "active": "2e9c32c80f59a492",
   "lastOpenFiles": [
+    "t>",
+    "HTB/Machines/fawn/index.md",
     "HTB/Machines/fawn.md",
     "Resources/command-reference.md",
-    "HTB/Machines/fawn/index.md",
     "flag.txt",
     "Daily/2025-06-05.md",
     "Templates/htb-machine-template.md",
