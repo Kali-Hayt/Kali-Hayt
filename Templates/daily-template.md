@@ -1,4 +1,4 @@
-# 📅 Daily Journal — $(date "+%Y-%m-%d")
+# 📅 Daily Journal — <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
@@ -67,5 +67,9 @@
 - 
 
 ---
+
 ## Current Focus:
-- $(cat ~/.current)
+<%* 
+  const focusPath = await tp.file.read("~/.current");
+  tR += focusPath;
+%>
