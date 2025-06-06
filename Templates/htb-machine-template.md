@@ -1,7 +1,7 @@
-# 🖥️ HTB Machine — <% tp.file.title %>
+# 🖥️ HTB Machine — $(cat ~/.current)
 
 ## 🧾 Info
-- Release Date: <% tp.date.now("YYYY-MM-DD") %>
+- Release Date: $(date "+%Y-%m-%d")
 - Difficulty: 
 - IP Address: 
 - OS: 
@@ -12,7 +12,7 @@
 
 ### Nmap
 ```bash
-nmap -sC -sV -oN <% tp.file.title %>-nmap.txt <IP>
+nmap -sC -sV -oN $(cat ~/.current)-nmap.txt <IP>
 
 Other scans / Notes:
 
@@ -29,4 +29,4 @@ Privilege Escalation:
 🧪 Practice Areas
 
 🔁 Work History
-<% tp.date.now("YYYY-MM-DD") %>: Started box, ran nmap
+$(date "+%Y-%m-%d"): Started box, ran nmap

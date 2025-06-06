@@ -93,4 +93,4 @@ endday
 
 - VPN file now lives in `~/VPNs/htb.ovpn`
 - `startday`, `focus`, and `endday` are all customized aliases
-- Maintain consistent folder names for Obsidian linking
+- Maintain consistent folder names for Obsidian link

@@ -1,4 +1,4 @@
-# 📅 Daily Journal — <% tp.date.now("YYYY-MM-DD") %>
+# 📅 Daily Journal — $(date "+%Y-%m-%d")
 
 ---
 
@@ -65,3 +65,7 @@
 
 ## ❓ Questions
 - 
+
+---
+## Current Focus:
+- $(cat ~/.current)
